@@ -1,6 +1,6 @@
 # Wedding Website
-A beautiful, feature rich, device friendly wedding website.  
-_See [wedding.ginzo.com](http://wedding.ginzo.com/) for a demo. Use invite code `271117` to RSVP._
+TODO:
+- Custom domain
 
 # Highlights
 1. Slick and fully __responsive__ design.
